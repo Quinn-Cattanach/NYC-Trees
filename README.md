@@ -11,6 +11,7 @@ Alternatively, view static snapshots of the interactive visualizations below:
 ![alt text](./Snapshots/Choropleth.png)
 
 ### Air quality in 4 NYC Boroughs over 10 years (Particulate Matter: micrograms/ cubic meter)
+Lower particulate matter = better.
 ![alt text](./Snapshots/Histogram.png)
 
 ### Cancer v. Trees Correlation 
